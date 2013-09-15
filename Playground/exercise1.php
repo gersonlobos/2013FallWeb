@@ -10,7 +10,11 @@
     </style>
   </head>
   <body>
-  	    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  	   
+		  	<div class="container">
+		  		
+		  		
+		  		 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
    		<div class="container">
    			<div class="navbar-header">
 				<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
@@ -48,7 +52,9 @@
             </div>
 		</div>
 	</div>
-		  	<div class="container">
+		  		
+		  		
+		  		
   		<div class="jumbotron">
 		    <h1>Hello world!</h1>
 		    <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique</p>
