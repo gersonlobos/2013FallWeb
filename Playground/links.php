@@ -10,14 +10,19 @@
     </style>
   </head>
   <body>
-  	    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-   		<div class="container">
+  	   
+  	   <div class="container">
+   			
+   			<div class="navbar navbar-default" role="navigation">
+   			
    			<div class="navbar-header">
 				<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
 			    	<span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
 			    </button>
+			    
+			    
 		      	<a class="navbar-brand" href="exercise2.php">Playground</a>
 			</div>
 		
@@ -26,6 +31,7 @@
 	              <li class="home"><a href="exercise1.php">Home</a></li>
 	              <li class="contact"><a href="contact.php">Contact</a></li>
 	              <li class="links"><a href="links.php">Links</a></li>
+	              
 					<li class="dropdown">
 				        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
 				        <ul class="dropdown-menu">
@@ -41,10 +47,14 @@
               <input class="span2" type="text" placeholder="Email">
               <input class="span2" type="password" placeholder="Password">
               <button type="submit" class="btn">Sign in</button>
-            </form>
-			</div>
+            </form>			
+            </div>
+            
 		</div>
 	</div>
+  	   
+  	   
+  	   
 		  	<div class="container">
   		<div class="well">
 		    <h1>Hello world!</h1>

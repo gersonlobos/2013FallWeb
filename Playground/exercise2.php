@@ -10,8 +10,9 @@
     </style>
   </head>
   <body>
-  	    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
    		<div class="container">
+   			  	    <div class="navbar navbar-default" role="navigation">
+
    			<div class="navbar-header">
 				<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
 			    	<span class="icon-bar"></span>
